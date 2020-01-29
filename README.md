@@ -1,2 +1,1 @@
-# samples
-code sample
+# code_sample
